@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Document</title>
+    <link rel="stylesheet" href="kmd_8.css" type="text/css">
+</head>
+<body>
+    
+        <div>
+            <table>
+                <tr>
+                    <th>Адади A</th>
+                    <th>Адади B</th>
+                    <th>Адади C</th>
+                </tr>
+                <tr id="inp">
+                    <th><input type="text" id="A"></th>
+                    <th><input type="text" id="B"></th>
+                    <th><input type="text" id="C"></th>
+                </tr>
+            </table>
+        </div>
+        <div>
+            <table>
+                <tr>
+                    <th><input type="radio" id="summa" onclick="s_click()" >Суммаи онҳо</th>
+                    <th><input type="text" class="adad" id="S" style="margin-top: 20px;"></th>
+                </tr>
+                <tr> 
+                    <th><input type="radio" id="kalon" onclick="k_click()">Адади калонтарин</th>
+                    <th><input type="text" class="adad" id="K"></th>
+                </tr>
+                <tr> 
+                    <th><input type="radio" id="xurd" onclick="x_click()">Адади хурдтарин</th>
+                    <th><input type="text"  class="adad" id="X"></th>
+                </tr>
+            </table>
+        </div>
+        <input type="button" value="Баромад" id="exit" onclick="b_click()">
+        
+        
+
+    <script src="kmd_8.js">      
+    </script>
+</body>
+</html>

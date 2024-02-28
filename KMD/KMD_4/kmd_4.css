@@ -1,0 +1,44 @@
+header{ 
+    background-color: rgb(128, 160, 160);
+    height: 400px;
+    width: 700px;
+    margin: 300px;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+input{
+    border-radius: 8px;
+}
+#d1{
+    display: flex;
+}
+
+#i1{
+    margin-right: 20px;
+    font-size: 25px;
+}
+#i2{
+    margin-right: 20px;
+    font-size: 25px;
+    margin-left: 20px;
+}
+#nav{
+    padding: 5px;
+    background-color: rgb(4, 4, 32);
+    color: white;
+    border-radius: 5px;
+    margin-left: 100px;
+    font-size: 20px;
+    margin-right: 30px;
+}
+#d1{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+#d2 input{
+    font-size: 15px;
+    height: 25px;
+}
+#d2{
+    margin-bottom: 50px;
+}

@@ -1,0 +1,39 @@
+body{
+    
+    
+    background-color: rgb(228, 228, 210);
+    
+    
+}
+#forma{
+    background-color: rgba(51, 104, 184, 0.671);
+    border: 1px solid black;
+    width: 700px;
+    height: 500px;
+    padding: 0;
+    border-radius: 20px;
+    margin: 300px;
+}
+#natija{
+    position: absolute;
+}
+#amalho {
+   margin-left: 60px;
+}
+table{
+    margin-left: 40px;
+}
+#res{
+     margin-left: 430px;
+     margin-top: -160px;
+     
+}
+#res input{
+    width: 200px;
+    height: 150px;
+    border-radius: 15px;
+}
+#res1{
+    font-size: 25px;
+    font-weight: bold;
+}

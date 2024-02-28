@@ -1,0 +1,15 @@
+div{
+    margin: 300px;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: khaki;
+    width: 500px;
+    height: 300px;
+    padding-left: 50px;
+}
+#res{
+    margin-left: -50px;
+    width: 80px;
+    height: 50px;
+    border-radius: 5px;
+}

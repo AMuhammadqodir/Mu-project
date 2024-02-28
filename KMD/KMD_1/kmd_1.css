@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(179, 165, 145);
+}
+#tab{
+    margin: 400px;
+    padding-bottom: 130px;
+    border: 1px solid black;
+    background-color: rgb(122, 196, 199);
+    width: 500px;
+    height: 280px;
+    border-radius: 20px;
+    box-shadow: 8px 8px 8px 8px  #444;
+}
+#j{
+    margin-top: -160px;
+    margin-left: 30px;
+}
+#gram{
+    height: 25px;
+    font-size: 15px;
+    font-weight: bold;
+    width: 185px;
+}
+#vnav{
+    height: 25px;
+    font-size: 15px;
+    font-weight: bold;
+    width: 185px;
+}

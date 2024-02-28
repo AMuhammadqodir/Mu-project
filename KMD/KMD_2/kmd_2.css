@@ -1,0 +1,59 @@
+body{
+    background-color: rgba(252, 222, 158, 0.87);
+}
+
+
+#tab{
+    margin: 300px;
+    border: 1px solid black;
+    padding: 30px 30px;
+    padding-right: -30px;
+    width: 500px;
+    background-color: rgb(151, 173, 173);
+    border-radius: 20px;
+    box-shadow: 0px 0px 8px 8px  #444;
+}
+input{
+    border-radius: 5px;
+}
+table input{
+    border-radius: 5px;
+}
+#vazn{
+    font-size: 23px;
+    font-weight: bold;
+}
+#a{
+    margin-left: 90px;
+    margin-bottom: 0px;
+    width:180px;
+    height: 25px;
+}
+#n{
+    margin-left: 150px;
+    width: 50px;
+    height: 30px;
+    font-size: 25px;
+}
+#natija_1{
+    margin-left: 40px;
+    width: 90px;
+    height: 25px;
+}
+#natija_2{
+    margin-left: 40px;
+    width: 90px;
+    height: 25px;
+}
+#natija_3{
+    margin-left: 40px;
+    width: 90px;
+    height: 25px;
+}
+#az_nav{
+    width: 460px;
+    height: 40px;
+    border-radius: 6px;
+    font-size: 18px;
+    font-weight: bold;
+}

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Lessons</title>
+    <link rel="stylesheet" href="kmd_2.css" type="text/css">
+</head>
+<body >
+
+  <div id="tab">
+    <div>
+        <label for="vazn" id="vazn">Вазн дар тонна:</label>
+        <input type="text" id="a" >
+    </div>
+    <table >
+        <tr>
+            <td><h3>Дар грамм:</h3></td>
+            <td><input type="button" value="=" id="n" onclick="n_click()" ></td>
+            <td><input type="text" id="natija_1" ></td>
+        </tr><br><br>
+
+        <tr>
+            <td><h3>Дар мг</h3></td>
+            <td><input type="button" value="=" id="n" onclick="n1_click()" ></td>
+            <td><input type="text" id="natija_2" ></td>
+        </tr><br>
+        
+        <tr>
+            <td><h3>Дар кг</h3></td>
+            <td><input type="button" value="=" id="n" onclick="n2_click()" ></td>
+            <td><input type="text" id="natija_3" ></td>
+        </tr>
+    </table><br>
+     
+    <button id="az_nav" onclick="c_click()">Аз нав</button>
+  
+  </div>
+
+ 
+  <script src="kmd_2.js"></script>
+
+</body>
+</html>
